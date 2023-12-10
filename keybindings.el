@@ -3,4 +3,3 @@
 (spacemacs/set-leader-keys-for-major-mode 'scala-mode "of" 'consult-lsp-file-symbols)
 (spacemacs/set-leader-keys-for-major-mode 'scala-mode "od" 'consult-lsp-diagnostics)
 
-(define-key embark-collect-mode-map (kbd "M-.") 'embark-select)

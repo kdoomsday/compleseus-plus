@@ -18,7 +18,8 @@ layer. As such, it depends on that layer.
 ** Features:
   - Add =all-the-icons-completion= to show icons for completion candidates
   - Add some helper keybindings when working with scala code
-  - Add =M-.= shortcut to ~embark-select~
+  - Add =m= shortcut to ~embark-select~ and move to next line in
+    =embark-collect= buffers using ~compleseus-plus-embark-select~
 
 * Install
 To use this configuration layer, add it to your =~/.spacemacs=. You will need to
